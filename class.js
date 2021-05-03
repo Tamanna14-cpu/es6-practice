@@ -1,4 +1,4 @@
-class student {
+class Student {
      constructor(sId, sName){
          this.id = sId;
          this.name = sName;
@@ -6,9 +6,9 @@ class student {
      }
 }
 
-const student1 = new student(12, 'shuvo');
-const student2 = new student(22, 'mahi');
+const student1 = new Student(12, 'shuvo');
+const student2 = new Student(22, 'mahi');
 console.log(student1, student2);
 
 
-// create object from class. aikhane school hoilo akta shared element jeta sobar jonno common.
+// create object from class. aikhane school hoilo akta shared element jeta sobar jonno common. classer nam suru hoy uppercase diye.
