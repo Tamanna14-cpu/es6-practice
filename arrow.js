@@ -43,3 +43,5 @@ const doMath = (x, y) => {
 
 const result4 = doMath(7, 3);
 console.log(result4);
+
+// uporer es6 er functiongulak arrow function o bole
